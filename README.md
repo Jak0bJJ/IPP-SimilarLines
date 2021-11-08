@@ -1,2 +1,2 @@
 # IPP-SimilarLines
-Task in C to create a program that finds similar lines in a text
+Task in C on creating a program that finds similar lines in a text with bash script for testing
